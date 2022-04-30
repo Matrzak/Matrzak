@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">Software developer from Poland working remotely from home</h3>
+<h3 align="left">Software developer from Poland working remotely from home</h3>
 
 - 🔭 I’m currently working on [Vibe Roleplay](https://forum.v-rp.pl/)
 - 📫 Contact **contact@matrzak.pl**
