@@ -1,10 +1,30 @@
 <h3 align="left">Nice to see you here</h1>
-<h4 align="left">Software developer from Poland working remotely from home</h3>
+
+<h4>About Me</h4>
+
+```yaml
+I'm Matthew, software engineer and DevOps passionate from Poland.
+I have experience working as part of a team and individually. 
+In both cases either on small and international projects
+
+I'm .NET Developer, additionaly I code in Typescript and Python.
+In free time I love to play CTF games and chess.
+
+Currently I'm developing my machine learning skills.
+Computer science student.
+```
+
+<h4>Career</h4>
+
+<h5>Currently</h5>
 
 - 🔭 Software Engineer at [CodeTwo](https://www.codetwo.com/)
 - 🔭 Software Engineer at [BergSystem](https://bergsystem.pl/)
 - 🔭 Tech Lead on [Vibe Roleplay](https://forum.v-rp.pl/)
 
+<h5>Past</h5>
+
+- 🔭 Software Developer at [Pumox GmbH](https://www.pumox.com/)
 
 <h4>Contact</h4>
 
