@@ -20,10 +20,9 @@ Computer science student.
 
 - 🔭 Software Engineer at [CodeTwo](https://www.codetwo.com/)
 - 🔭 Software Engineer at [BergSystem](https://bergsystem.pl/)
+- 🔭 Tech Lead on [Vibe Roleplay](https://v-rp.pl/)
 
 <h5>Past</h5>
-
-- 🔭 Tech Lead on [Vibe Roleplay](https://v-rp.pl/)
 - 🔭 Software Developer at [Pumox GmbH](https://www.pumox.com/)
 
 <h4>Contact</h4>
