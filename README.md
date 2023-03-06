@@ -23,6 +23,7 @@ Computer science student.
 - 🔭 Tech Lead on [Vibe Roleplay](https://v-rp.pl/)
 
 <h5>Past</h5>
+
 - 🔭 Software Developer at [Pumox GmbH](https://www.pumox.com/)
 
 <h4>Contact</h4>
