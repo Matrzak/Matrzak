@@ -11,7 +11,7 @@ I'm .NET Developer, additionaly I code in Typescript and Python.
 In free time I love to play CTF games and chess.
 
 Currently I'm developing my machine learning skills.
-
+```
 <h4>Career</h4>
 
 <h5>Currently</h5>
