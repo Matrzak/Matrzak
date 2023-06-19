@@ -17,11 +17,11 @@ Currently I'm developing my machine learning skills.
 <h5>Currently</h5>
 
 - 🔭 Software Engineer at [CodeTwo](https://www.codetwo.com/)
-- 🔭 Software Engineer at [BergSystem](https://bergsystem.pl/)
 - 🔭 Tech Lead on [Vibe Roleplay](https://v-rp.pl/)
 
 <h5>Past</h5>
 
+- 🔭 Software Engineer at [BergSystem](https://bergsystem.pl/)
 - 🔭 Software Developer at [Pumox GmbH](https://www.pumox.com/)
 
 <h4>Contact</h4>
